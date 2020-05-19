@@ -14,6 +14,17 @@ pip install requirements.txt
 
 ```python
 python app.py
+
+## Use your own model
+Place your trained keras deep learning model to the models directory.
+
+## Use other pre-trained model
+See Keras applications for more available models such as DenseNet, MobilNet, NASNet, etc.
+
+## UI Modification
+Modify files in templates and static directory.
+
+index.html, base.html for the UI and main.js for all the behaviors
 ```
 
 ## Contributing
