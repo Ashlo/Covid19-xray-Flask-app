@@ -17,7 +17,7 @@ python app.py
 ```
 
 ## Use your own model
-Place your trained keras deep learning model to the models directory.
+Place your trained keras deep learning model to the directory.
 
 ## Use other pre-trained model
 See Keras applications for more available models such as DenseNet, MobilNet, NASNet, etc.
